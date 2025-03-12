@@ -67,17 +67,7 @@ We used **TF-IDF (Term Frequency-Inverse Document Frequency)** vectorization to 
 - **Random Forest was more robust than Decision Tree** due to reduced overfitting.
 - **Gradient Boosting had high training accuracy but slightly overfitted on the small dataset.**
 
-## 🚀 How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/suicide-depression-prediction.git
-   cd suicide-depression-prediction
-   ```
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook or Python script to train and evaluate models.
+1. Run the Jupyter Notebook or Python script to train and evaluate models.
 
 ## 📜 License
 This project is for educational purposes only and follows ethical AI practices. Please use responsibly.
